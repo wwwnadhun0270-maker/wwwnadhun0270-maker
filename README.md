@@ -6,11 +6,6 @@
   </a>
 </h2>
 
-## Contribution Snake
-<p align="center">
-  <img src="https://github.com/wwwnadhun0270-maker/wwwnadhun0270-maker/blob/main/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
 ## About Me
 - 🌱 Currently learning **Electronic & Telecommunication Engineering**
 - 🧠 Interested in **Frontend Development, OpenCV, and Embedded Systems**
@@ -71,5 +66,3 @@
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
 
----
-Credit: [Nadhun Warnakulasooriya](https://github.com/wwwnadhun0270-maker)
