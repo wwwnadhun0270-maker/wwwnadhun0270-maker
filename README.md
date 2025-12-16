@@ -1,27 +1,25 @@
 <h1 align="center">Hi 👋, I'm Nadhun Warnakulasooriya</h1>
-<h3 align="center">An aspiring Electronic & Telecommunication Engineer | Frontend & Computer Vision Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wwwnadhun0270-maker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wwwnadhun0270-maker&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Nadhun+Warnakulasooriya.;I'm+a+student+in+Sri+Lanka.;I'm+always+expanding+my+tech+stack!" alt="Typing SVG" />
   </a>
+</h2>
+
+## Contribution Snake
+<p align="center">
+  <img src="https://github.com/wwwnadhun0270-maker/wwwnadhun0270-maker/blob/main/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
----
-
-### 👨‍💻 About Me
-- 🌱 Currently learning **Electronic & Telecommunication Engineering (ETE)**
+## About Me
+- 🌱 Currently learning **Electronic & Telecommunication Engineering**
 - 🧠 Interested in **Frontend Development, OpenCV, and Embedded Systems**
 - 📫 Reach me at **www.nadhun0270@gmail.com**
 - 🇱🇰 Based in **Sri Lanka**
 
 ---
 
-### 🔗 Connect with Me
+## Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/nadhun-warnakulasooriya-43820235b" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -33,37 +31,45 @@
 
 ---
 
-### 🧠 Skills & Proficiency
+## My Tech Stack and Tools
 
-![Python](https://img.shields.io/badge/Python-85%25-brightgreen)
-![Arduino](https://img.shields.io/badge/Arduino-75%25-yellow)
-![HTML/CSS](https://img.shields.io/badge/HTML--CSS-70%25-blue)
-![OpenCV](https://img.shields.io/badge/OpenCV-70%25-blueviolet)
-![MATLAB](https://img.shields.io/badge/MATLAB-50%25-lightgrey)
-![Circuit Analysis](https://img.shields.io/badge/Circuit--Analysis-60%25-orange)
-
-<!-- Shields.io badges will be auto-updated by GitHub Actions -->
-
----
-
-### ☕ Support My Work
+### Programming Languages
 <p>
-  <a href="https://www.buymeacoffee.com/wwwnadhun0270-maker">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
+<img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
+<img width="48px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" />
 </p>
+### Frameworks and Libraries
+<p>
+<img width="48px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" />
+
+</p>
+
+### Software
+<p>
+<img width="48px" src="https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg" alt="Git" />
+<img width="48px" src="https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg" alt="GitHub" />
+<img width="48px" src="https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg" alt="VS Code" />
+<img width="48px" src="https://w7.pngwing.com/pngs/232/531/png-transparent-adobe-creative-cloud-adobe-lightroom-adobe-systems-computer-icons-others-blue-text-rectangle-thumbnail.png" alt="Lightroom" />
+
+</p>
+---
+
+## GitHub Stats
+| My Stats |
+|:-------:|
+| ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=wwwnadhun0270-maker&theme=react-dark&hide_border=true&area=true) |
+| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=wwwnadhun0270-maker&show_icons=true&theme=algolia) |
+| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wwwnadhun0270-maker&theme=algolia) |
+
+| My Stars | Top Languages |
+|:--------:|:------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=wwwnadhun0270-maker&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwnadhun0270-maker&langs_count=8&theme=algolia) |
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wwwnadhun0270-maker&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+![](https://komarev.com/ghpvc/?username=wwwnadhun0270-maker&style=flat-square)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wwwnadhun0270-maker&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+###### Some icons courtesy of [icons8](https://icons8.com/)
 
 ---
-
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
+Credit: [Nadhun Warnakulasooriya](https://github.com/wwwnadhun0270-maker)
