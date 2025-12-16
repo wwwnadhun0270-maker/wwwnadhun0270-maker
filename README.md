@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Electronic & Telecommunication Engineer | Frontend & Computer Vision Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wwwnadhun0270-maker&label=Profile%20views&color=0e75b6&style=flat" alt="wwwnadhun0270-maker" />
+  <img src="https://komarev.com/ghpvc/?username=wwwnadhun0270-maker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -35,25 +35,14 @@
 
 ### 🧠 Skills & Proficiency
 
-**Programming Languages**
-- 🐍 **Python**: ████████░░ 80%
-- 🌐 **HTML / CSS**: ███████░░░ 70%
-- 🧩 **JavaScript (Basics)**: █████░░░░░ 50%
+![Python](https://img.shields.io/badge/Python-85%25-brightgreen)
+![Arduino](https://img.shields.io/badge/Arduino-75%25-yellow)
+![HTML/CSS](https://img.shields.io/badge/HTML--CSS-70%25-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-70%25-blueviolet)
+![MATLAB](https://img.shields.io/badge/MATLAB-50%25-lightgrey)
+![Circuit Analysis](https://img.shields.io/badge/Circuit--Analysis-60%25-orange)
 
-**Libraries & Frameworks**
-- 👁️ **OpenCV**: ███████░░░ 70%
-- 📊 **Matplotlib**: ██████░░░░ 60%
-
-**Embedded & Hardware (ETE)**
-- 🔌 **Arduino**: ███████░░░ 70%
-- ⚙️ **Sensors & Actuators**: ██████░░░░ 60%
-- 📡 **Basic Electronics (Analog & Digital)**: ███████░░░ 70%
-- 🔋 **Circuit Analysis**: ██████░░░░ 60%
-- 📐 **MATLAB (Basics)**: █████░░░░░ 50%
-
-**Tools & Platforms**
-- 🧠 **Git & GitHub**: ███████░░░ 70%
-- 💻 **VS Code**: ████████░░ 80%
+<!-- Shields.io badges will be auto-updated by GitHub Actions -->
 
 ---
 
