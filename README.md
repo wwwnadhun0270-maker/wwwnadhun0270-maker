@@ -1,68 +1,64 @@
 <h1 align="center">Hi 👋, I'm Nadhun Warnakulasooriya</h1>
 
-<h2 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Nadhun+Warnakulasooriya.;I'm+a+student+in+Sri+Lanka.;I'm+always+expanding+my+tech+stack!" alt="Typing SVG" />
   </a>
-</h2>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=wwwnadhun0270-maker&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
-## About Me
+<br>
+
+## 👨‍💻 About Me
 - 🌱 Currently learning **Electronic & Telecommunication Engineering**
 - 🧠 Interested in **Frontend Development, OpenCV, and Embedded Systems**
-- 📫 Reach me at **www.nadhun0270@gmail.com**
+- 📫 Reach me at **[nadhun0270@gmail.com](mailto:nadhun0270@gmail.com)**
 - 🇱🇰 Based in **Sri Lanka**
 
 ---
 
-## Connect with Me
-<p align="left">
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🧰 Software
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wwwnadhun0270-maker&show_icons=true&theme=tokyonight" alt="My Github Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wwwnadhun0270-maker&theme=tokyonight" alt="My GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwnadhun0270-maker&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=wwwnadhun0270-maker&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+<div align="center">
   <a href="https://linkedin.com/in/nadhun-warnakulasooriya-43820235b" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/n_a_d_h_u_n" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
-
----
-
-## My Tech Stack and Tools
-
-### Programming Languages
-<p>
-<img width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
-<img width="48px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" />
-</p>
-### Frameworks and Libraries
-<p>
-<img width="48px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" />
-
-</p>
-
-### Software
-<p>
-<img width="48px" src="https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg" alt="Git" />
-<img width="48px" src="https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg" alt="GitHub" />
-<img width="48px" src="https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg" alt="VS Code" />
-<img width="48px" src="https://w7.pngwing.com/pngs/232/531/png-transparent-adobe-creative-cloud-adobe-lightroom-adobe-systems-computer-icons-others-blue-text-rectangle-thumbnail.png" alt="Lightroom" />
-
-</p>
----
-
-## GitHub Stats
-| My Stats |
-|:-------:|
-| ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=wwwnadhun0270-maker&theme=react-dark&hide_border=true&area=true) |
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=wwwnadhun0270-maker&show_icons=true&theme=algolia) |
-| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wwwnadhun0270-maker&theme=algolia) |
-
-| My Stars | Top Languages |
-|:--------:|:------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=wwwnadhun0270-maker&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwnadhun0270-maker&langs_count=8&theme=algolia) |
-
----
-
-![](https://komarev.com/ghpvc/?username=wwwnadhun0270-maker&style=flat-square)
-
-###### Some icons courtesy of [icons8](https://icons8.com/)
-
+  <a href="mailto:nadhun0270@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
