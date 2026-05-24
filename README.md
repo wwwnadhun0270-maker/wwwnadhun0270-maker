@@ -35,17 +35,21 @@
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wwwnadhun0270-maker&show_icons=true&theme=tokyonight" alt="My Github Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wwwnadhun0270-maker&theme=tokyonight" alt="My GitHub Streak" width="48%" />
-</div>
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=wwwnadhun0270-maker&show_icons=true&theme=algolia&v=1)
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wwwnadhun0270-maker&theme=algolia&v=1)
+
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwnadhun0270-maker&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" width="48%" />
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwnadhun0270-maker&layout=compact&theme=algolia&langs_count=8&v=1)
+
 <br>
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=wwwnadhun0270-maker&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=wwwnadhun0270-maker&theme=react-dark&hide_border=true&area=true&v=1)
+
 </div>
 
 ---
