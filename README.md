@@ -22,8 +22,13 @@
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 🧰 Software
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -35,25 +40,26 @@
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <div align="center">
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=wwwnadhun0270-maker&show_icons=true&theme=algolia&v=1)
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wwwnadhun0270-maker&theme=algolia&v=1)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwnadhun0270-maker&layout=compact&theme=algolia&langs_count=8&v=1)
-
-<br>
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=wwwnadhun0270-maker&theme=react-dark&hide_border=true&area=true&v=1)
-
+  <a href="https://github.com/wwwnadhun0270-maker">
+    <img src="https://github-readme-stats.vercel.app/api?username=wwwnadhun0270-maker&show_icons=true&theme=algolia&v=2" alt="My Github Stats" />
+  </a>
+  <a href="https://github.com/wwwnadhun0270-maker">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wwwnadhun0270-maker&theme=algolia&v=2" alt="My GitHub Streak" />
+  </a>
+  
+  <br><br>
+  
+  <a href="https://github.com/wwwnadhun0270-maker">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwnadhun0270-maker&layout=compact&theme=algolia&langs_count=8&v=2" alt="Top Langs" />
+  </a>
+  
+  <br><br>
+  
+  <a href="https://github.com/wwwnadhun0270-maker">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wwwnadhun0270-maker&theme=react-dark&hide_border=true&area=true&v=2" alt="Activity Graph" />
+  </a>
 </div>
-
----
-
 ## 🤝 Connect with Me
 <div align="center">
   <a href="https://linkedin.com/in/nadhun-warnakulasooriya-43820235b" target="_blank">
